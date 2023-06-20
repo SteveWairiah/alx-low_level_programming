@@ -1,4 +1,4 @@
-#include <stdio>
+#include "main.h"
 
 /**
  * print_alphabet - Function that prints the alphabet, in lowercase
