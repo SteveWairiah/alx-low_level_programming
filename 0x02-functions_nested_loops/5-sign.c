@@ -2,14 +2,13 @@
 
 /**
  * print_sign - Prints the sign of a number
- * @c: The character to be checked
+ * @n: The character to be checked
  * Return: 1 for positive, -1 for negative or 0 for anything else
  */
 
 int print_sign(int n)
 
 {
-	int n = 0
 
 	if (n > 0)
 	{
