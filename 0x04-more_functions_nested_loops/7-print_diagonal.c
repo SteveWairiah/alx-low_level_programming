@@ -1,13 +1,13 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
- * print_diagonal - draws a diagonal line on the terminal
+ * print_diagonal - draws a diagonal line according parameter
  * @n: The number of times to print diagonal lines
- * return: void
+ * return: empty
  */
 
 void print_diagonal(int n)
+
 {
 	int x, y;
 
@@ -24,7 +24,7 @@ void print_diagonal(int n)
 	_putchar(32);
 	}
 	_putchar(92);
-	}
 	_putchar('\n');
+	}
 	}
 }
