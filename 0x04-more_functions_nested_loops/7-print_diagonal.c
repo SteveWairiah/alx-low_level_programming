@@ -6,6 +6,7 @@
  * @n: The number of times to print diagonal lines
  * return: void
  */
+
 void print_diagonal(int n)
 {
 	int x, y;
