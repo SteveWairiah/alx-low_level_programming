@@ -5,7 +5,7 @@
 /**
  * main -  prints the largest prime factor of the number 612852475143
  * Description: prints the largest prime factor of the number 612852475143
- * return: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
