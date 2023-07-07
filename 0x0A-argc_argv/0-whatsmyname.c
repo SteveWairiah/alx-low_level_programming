@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * main - prints its name
- * @arg: count
- * @arg: vector
+ * main - printsname of the program
+ * @argc: count
+ * @argv: vector
  * Return: Always 0
  */
 
