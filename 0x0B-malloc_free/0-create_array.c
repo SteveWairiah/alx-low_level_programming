@@ -2,8 +2,9 @@
 #include <stdlib.h>
 
 /**
- * *create_array - creates an array of chars, and initializes it with a specific char
+ * *create_array - creates an array of chars
  * @c: char
+ * @size: size of array
  * Return: pointer, NULL if fails
  */
 
@@ -17,7 +18,7 @@ char *create_array(unsigned int size, char c)
 		return (NULL);
 
 	for (i = 0; i < size; i++)
-		str[i] = c ;
+		str[i] = c;
 
 	return (str);
 }
